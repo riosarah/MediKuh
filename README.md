@@ -6,7 +6,7 @@ Das Projekt MediKuh geht das Problem an, vor dem bestimmte Gruppen in unserer Ge
 - Einfachheit in der Bedienung
 * Indiviualiserbarkeit für bestimmte Personengruppen
 
-
+Da es es sich hierbei um sensible Daten handelt, werden alle Daten des Users vertraulich behandelt.
 
 
 ## Aufgabenverteilung:
