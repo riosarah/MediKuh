@@ -2,10 +2,10 @@
 
 Aufgabenverteilung:
 
-Initial situation (Ralph)
+## Initial situation (Ralph)
 
-General conditions and constraints (Sarah)
+## General conditions and constraints (Sarah)
 
-Project objectives and system concepts (Jürgen)
+## Project objectives and system concepts (Jürgen)
 
-Opportunities and risks (Sarah)
+## Opportunities and risks (Sarah)
