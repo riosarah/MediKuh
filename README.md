@@ -1,11 +1,16 @@
 # MediKuh
+**Projekt Outline (kurze Zusammenfassung des Projektes):**
 
-Aufgabenverteilung:
+Das Projekt MediKuh geht das Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, wenn es um die tägliche Einnahme von wichtigen Medikamten geht. 
 
-## Initial situation (Ralph)
 
-## General conditions and constraints (Sarah)
+## Aufgabenverteilung:
 
-## Project objectives and system concepts (Jürgen)
 
-## Opportunities and risks (Sarah)
+### Initial situation (Ralph)
+
+### General conditions and constraints (Sarah)
+
+### Project objectives and system concepts (Jürgen)
+
+### Opportunities and risks (Sarah)
