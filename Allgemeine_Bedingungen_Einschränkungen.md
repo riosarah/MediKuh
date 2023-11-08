@@ -1,39 +1,39 @@
-#Allgemeine Bedingungen und Einschränkungen#
+# Allgemeine Bedingungen und EinschrÃ¤nkungen #
 
-##Organisatorische Einschränkungen und Framework Bedingungen##
+## Organisatorische EinschrÃ¤nkungen und Framework Bedingungen ##
 
-Wir sind eine unabhängiges Entwicklerteam, dass sich in seiner Freizeit mit der Entwicklung
-der **App Medikuh** beschäftigt. Unser Budget ist momentan beschränkt auf die Resourcen, die uns durch
-unsere anderen Einkünfte zur Verfügung stehen. Wir sind offen für Interessierte, die sich finanziell 
+Wir sind eine unabhÃ¤ngiges Entwicklerteam, dass sich in seiner Freizeit mit der Entwicklung
+der ** App Medikuh ** beschÃ¤ftigt. Unser Budget ist momentan beschrÃ¤nkt auf die Resourcen, die uns durch
+unsere anderen EinkÃ¼nfte zur VerfÃ¼gung stehen. Wir sind offen fÃ¼r Interessierte, die sich finanziell 
 an diesem Projekt beteiligen wollen.
-Wir haben ein gutes Basiswissen im Bereich Datenbanken und Grafikdesign. Daher können wir dieses Wissen gut 
-in die Projektplanung einfließen lassen.
-Die Planung des Projekts befindet sich in der Metaphase. Während der Projektplanung sind wir offen dafür, 
+Wir haben ein gutes Basiswissen im Bereich Datenbanken und Grafikdesign. Daher kÃ¶nnen wir dieses Wissen gut 
+in die Projektplanung einflieÃŸen lassen.
+Die Planung des Projekts befindet sich in der Metaphase. WÃ¤hrend der Projektplanung sind wir offen dafÃ¼r, 
 Investoren und weitere Mitarbeiter anzuwerben.
 
-Unsere Verpflichten gegenüber diesem Projekt bedingen sich durch unsere Teilnahme an dem Kurs *Systemplanung und Projektmanagement*.
-Die Deadline für die Abgabe der ersten Outline ist der 24 Dezember. 
+Unsere Verpflichten gegenÃ¼ber diesem Projekt bedingen sich durch unsere Teilnahme an dem Kurs *Systemplanung und Projektmanagement*.
+Die Deadline fÃ¼r die Abgabe der ersten Outline ist der 24 Dezember. 
 
 
-##Technische Einschränkungen##
-Alle Unterlagen sind momentan auf Github verfügbar. Ob der eigentliche Code einsehbar sein wird, ist noch nicht absehbar und
-hängt von den Rahmenbedingungen des Projekts in der aktiven Durchführungsphase ab.
-Das Grundgerüst des Projekts wird auf C# aufbauen, während das grafische Design auf Adope basierten Applikationen aufbauen soll.
-Außer unseren Rechnern werden mehrere mobile Geräte angeschafft werden müssen, um ein glattes Ablaufen auf diesen zu testen.
+##Technische EinschrÃ¤nkungen##
+Alle Unterlagen sind momentan auf Github verfÃ¼gbar. Ob der eigentliche Code einsehbar sein wird, ist noch nicht absehbar und
+hÃ¤ngt von den Rahmenbedingungen des Projekts in der aktiven DurchfÃ¼hrungsphase ab.
+Das GrundgerÃ¼st des Projekts wird auf C# aufbauen, wÃ¤hrend das grafische Design auf Adope basierten Applikationen aufbauen soll.
+AuÃŸer unseren Rechnern werden mehrere mobile GerÃ¤te angeschafft werden mÃ¼ssen, um ein glattes Ablaufen auf diesen zu testen.
 
-Ein Hauptaugenmerk unserer App soll die Barrierefreiheit sein. Hier möchten wir weit über die MindestAnforderungen hinaus gehen.
-Über der einfachen Lesbarkeit, durch Legasthenie- Freundliche Schrift, Farbblindheitfreundliches Design. 
-Die App soll für assistive Technologien mühelos auslesbar sein. Der Text ist bis auf 200% vergrößerbar.
-Alle Bedienungselemente sollen in ihrer Funktion größtmöglich visuell erkennbar sein.
+Ein Hauptaugenmerk unserer App soll die Barrierefreiheit sein. Hier mÃ¶chten wir weit Ã¼ber die MindestAnforderungen hinaus gehen.
+Ãœber der einfachen Lesbarkeit, durch Legasthenie- Freundliche Schrift, Farbblindheitfreundliches Design. 
+Die App soll fÃ¼r assistive Technologien mÃ¼helos auslesbar sein. Der Text ist bis auf 200% vergrÃ¶ÃŸerbar.
+Alle Bedienungselemente sollen in ihrer Funktion grÃ¶ÃŸtmÃ¶glich visuell erkennbar sein.
 
-Wir streben an unsere App auf verschiedenen Betriebssystemen laufen lassen zu können. Die dafür geltenden Datenbestimmung
+Wir streben an unsere App auf verschiedenen Betriebssystemen laufen lassen zu kÃ¶nnen. Die dafÃ¼r geltenden Datenbestimmung
 werden wir 
 
-Datenschutzerklärung
+DatenschutzerklÃ¤rung
 Cookie - Verwaltung
-Regeln festlegen und Interessen AGBs schützen
-Gültige Verzeichnisse über die erfassten Einwilligungen
-Verzeichnis Datenverarbeitungsaktivitäten
+Regeln festlegen und Interessen AGBs schÃ¼tzen
+GÃ¼ltige Verzeichnisse Ã¼ber die erfassten Einwilligungen
+Verzeichnis DatenverarbeitungsaktivitÃ¤ten
 
-Welche Standards und Regulationen müssen wir beachten
+Welche Standards und Regulationen mÃ¼ssen wir beachten
 
