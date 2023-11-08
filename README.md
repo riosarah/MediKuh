@@ -1,7 +1,10 @@
 # MediKuh
 **Projekt Outline (kurze Zusammenfassung des Projektes):**
 
-Das Projekt MediKuh geht das Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, wenn es um die tägliche Einnahme von wichtigen Medikamten geht. Mithilfe moderner Technik sollen bestimmte Personengruppen bei der Einnahme von Mediekamenten unterstützt werden.
+Das Projekt MediKuh geht das Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, wenn es um die tägliche Einnahme von wichtigen Medikamten geht. Mithilfe moderner Technik sollen bestimmte Personengruppen bei der Einnahme von Mediekamenten unterstützt werden. Diese Unterstützung erfolgt mittels App, die sich in 2 wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
+
+- Einfachheit in der Bedienung
+* Indiviualiserbarkeit für bestimmte Personengruppen
 
 
 
