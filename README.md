@@ -12,7 +12,7 @@ Da es es sich hierbei um sensible Daten handelt, werden Daten eines Users vertra
 
 
 ## Aufgabenverteilung:
-`#RRGGBB`
+#0969DA
 
 ### Initial situation: (Ralph)
 ...
