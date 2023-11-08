@@ -12,7 +12,6 @@ Da es es sich hierbei um sensible Daten handelt, werden Daten eines Users vertra
 
 
 ## Aufgabenverteilung:
-#0969DA terte
 
 ### Initial situation: (Ralph)
 ...
