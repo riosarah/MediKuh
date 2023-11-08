@@ -8,6 +8,8 @@ Das Projekt MediKuh geht das Problem an, vor dem bestimmte Gruppen in unserer Ge
 
 Da es es sich hierbei um sensible Daten handelt, werden Daten eines Users vertraulich behandelt.
 
+![DRAFT_logo1](https://github.com/riosarah/MediKuh/assets/145586660/8523b1ea-f87f-4356-a884-f359d8b86d21)
+
 
 ## Aufgabenverteilung:
 
