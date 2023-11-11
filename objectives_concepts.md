@@ -2,10 +2,10 @@ Der Grundgedanke des Projektes ist es, Nutzern unserer App die Möglichkeit zu g
 
 Diese tägliche Routine kann für gewisse Personengruppe eine nicht zu unterschätzende Hürde darstellen, vor allem dann, wenn eine Unterstützung durch andere Personen (Angehörige, etc) nicht im ausreichenden Maße erfolgen kann.
 
-Genau in diesem Punkt soll unsere App eingreifen und Unterstützung bieten!
+Genau in diesem Punkt soll unsere App eingreifen und Unterstützung bieten!gggg
 
-Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterstützung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.k
-'''
+Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterstützung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.
+
 - M - MODERN
 - E - EINZIGARTIG
 - D - 
