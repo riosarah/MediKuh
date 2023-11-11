@@ -1,68 +1,69 @@
-#Möglichkeiten und Risiken#
+# MÃ¶glichkeiten und Risiken #
 
-##Marktanalyse und potentielle Kundschaft##
-Laut der Statistik austria wird der Bevölkerungsanteil der über 65Jährigen
-in den 30er Jahren 25Prozent der Bevölkerung ausmachen.
-Wenn man alleine auf die wachsende Anzahl zukünftigen Senioren den Fokus legt,
-die anders als vorherige ältere Generationen, ein immer besseres Verständnis von Technik
-aufweist, zeigten sich ganz klare Wachstumsmöglichkeiten für unsere App heraus. 
+## Marktanalyse und potentielle Kundschaft ##
+Laut der Statistik austria wird der BevÃ¶lkerungsanteil der Ã¼ber 65JÃ¤hrigen
+in den 30er Jahren 25Prozent der BevÃ¶lkerung ausmachen.
+Wenn man alleine auf die wachsende Anzahl zukÃ¼nftigen Senioren den Fokus legt,
+die anders als vorherige Ã¤ltere Generationen, ein immer besseres VerstÃ¤ndnis von Technik
+aufweist, zeigten sich ganz klare WachstumsmÃ¶glichkeiten fÃ¼r unsere App heraus. 
 
-Ein Ziel, dass wir im Hinblick auf diesen Markt sehen wäre, besonders auf
-**Seniorenhandys** wie Emporia, Doro oder Tiptel unsere App zu einer der zentralen
+Ein Ziel, dass wir im Hinblick auf diesen Markt sehen wÃ¤re, besonders auf
+** Seniorenhandys ** wie Emporia, Doro oder Tiptel unsere App zu einer der zentralen
 Applikationen zu machen. Dass nun immer mehr Anbieter auf diesen
-Markt einsteigen, zeigt auch die steigende Nachfrage unter älteren Menschen 
+Markt einsteigen, zeigt auch die steigende Nachfrage unter Ã¤lteren Menschen 
 nach technischer Hilfe. Gleichzeitig kristallisiert sich in den letzten Jahren ein Mangel
-an Pflegepersonal hervor, die diese Bevölkerungsgruppe im Alltag unterstützen könnte.
+an Pflegepersonal hervor, die diese BevÃ¶lkerungsgruppe im Alltag unterstÃ¼tzen kÃ¶nnte.
 
-Hier werden zweifellos unterstützende Werkzeuge einen immer wichtigeren Platz einnehmen.
+Hier werden zweifellos unterstÃ¼tzende Werkzeuge einen immer wichtigeren Platz einnehmen.
 
-Eine weitere Kundschaft, die noch leichter aufzuschließen wäre, sind der Anteil
-psychisch oder chronisch kranker Menschen in Österreich.
-Alleine fünf Prozent der Österreicher sind mit schweren psychiatrischen Erkrankungen
-diagnostiziert und auf die regelmäßige Einnahme von **Psychopharmaka** angewiesen ist. 
-Aber auch unter der Gesamtbevölkerung nimmt der Einsatz von Psychopharmaka zu.
-Laut der Donau Universität Krems stieg der Verbrauch innerhalb von neun Jahren
+Eine weitere Kundschaft, die noch leichter aufzuschlieÃŸen wÃ¤re, sind der Anteil
+psychisch oder chronisch kranker Menschen in Ã–sterreich.
+Alleine fÃ¼nf Prozent der Ã–sterreicher sind mit schweren psychiatrischen Erkrankungen
+diagnostiziert und auf die regelmÃ¤ÃŸige Einnahme von ** Psychopharmaka ** angewiesen ist. 
+Aber auch unter der GesamtbevÃ¶lkerung nimmt der Einsatz von Psychopharmaka zu.
+Laut der Donau UniversitÃ¤t Krems stieg der Verbrauch innerhalb von neun Jahren
 um 25 Prozent. Somit ist es einer der am meisten wachsenden Spalten der Pharmazeutik.
 
-Diese zwei Bevölkerungsgruppen weisen einen hohen Bedarf für Unterstützungstechnologie auf. 
-Gleichzeitig mangelt es an übersichtlichen und frei zugänglichen Hilfsmitteln.
+Diese zwei BevÃ¶lkerungsgruppen weisen einen hohen Bedarf fÃ¼r UnterstÃ¼tzungstechnologie auf. 
+Gleichzeitig mangelt es an Ã¼bersichtlichen und frei zugÃ¤nglichen Hilfsmitteln.
 Besonders im Bereich der intuitiven Designgestaltung zeigen sich gigantische
-Verbesserungsmöglichkeiten. 
+VerbesserungsmÃ¶glichkeiten. 
 
-Bei vergleichbaren Apps wird auf viele Eingabemöglichkeiten gesetzt.
-Man kann unzählige Daten bezüglich der Tabletteneinnahme festhalten
-und sieht sich schnell mit den steril wirkenden, mit Schrift überladenen Displays
-überfordert.
+Bei vergleichbaren Apps wird auf viele EingabemÃ¶glichkeiten gesetzt.
+Man kann unzÃ¤hlige Daten bezÃ¼glich der Tabletteneinnahme festhalten
+und sieht sich schnell mit den steril wirkenden, mit Schrift Ã¼berladenen Displays
+Ã¼berfordert.
 
-Ein intuitiveres Design, dass auf die nötigsten Daten abgespeckt ist, 
-kommt unserer Zielkundschaft hier viel näher. Ohne dass es notwendig ist, 
+Ein intuitiveres Design, dass auf die nÃ¶tigsten Daten abgespeckt ist, 
+kommt unserer Zielkundschaft hier viel nÃ¤her. Ohne dass es notwendig ist, 
 ewig viele Zeilen zu lesen, oder einzugeben, kann unsere App anhand der Symbolbilder
 kinderleicht bedient werden.
 
 
-##Profitchancen##
-Der Marktführer Smartpatient mit seiner App "MyTherapy" wird von rund 1,4 Millionen Patienten
+## Profitchancen ##
+Der MarktfÃ¼hrer Smartpatient mit seiner App "MyTherapy" wird von rund 1,4 Millionen Patienten
 Europaweit genutzt. Der Konkurent "Arznei aktuell" hat laut eigenen Angaben 250 Tausend
-regelmäßige Nutzer. 
+regelmÃ¤ÃŸige Nutzer. 
 Selbst "Mediteo", eine Medikamenten-App, die erst vor kurzem als Testssieger von
-Stiftung Warentest ausgezeichnet wurde, hat ein Display voller überwältigender Informationen.
-Auch hier braucht es eine Weile, um sich mit der Flut an Möglichkeiten zurecht zu finden.
+Stiftung Warentest ausgezeichnet wurde, hat ein Display voller Ã¼berwÃ¤ltigender Informationen.
+Auch hier braucht es eine Weile, um sich mit der Flut an MÃ¶glichkeiten zurecht zu finden.
 
 
 
-##Verlustrisiko und wahrscheinliche Verluste##
-Durch die sehr bekannten Konkurrenten am Markt, könnten sich Schwierigkeiten beim erreichen 
+## Verlustrisiko und wahrscheinliche Verluste ##
+Durch die sehr bekannten Konkurrenten am Markt, kÃ¶nnten sich Schwierigkeiten beim erreichen 
 von potenziellen Kunden auftuen. Hier ist es sehr wichtig, sich nicht nur optisch von 
-denen schon am Markt erhältlichen Programmen zu unterscheiden, sondern ganz gezielt auf
-Marketinglücken dieser Produkte abzuzielen. 
-Da wir momentan mit noch wenig finanzieller Rückendeckung agieren, die uns im Bereich Publicity
-ein große Hilfe sein könnte, müssen wir uns auf einen schleppenden Start einstellen.
-Es bleibt zu berücksichtigen, dass trotz Überlegenheit unseres Produkts im Hinblick
-auf viele Designfeatures, all unsere Bemühungen umsonst sind, wenn wir unsere Kundschaft
-nicht erreichen können. 
-Eine kurzfristige Möglichkeit um den schleppenden Start zu verkürzen, wäre Kontakt mit 
-Health Influencern aufzunehmen. Wenn wir beispielsweise einflussreiche Personen mit Beeinträchtigungen,
-oder chronischen Erkrankungen, in unsere Appplanung mit einbeziehen ergeben sich zweierlei Möglichkeiten.
-Ein relativ kostengünstiger Zugang zu Betat-Testern und ein großartiges Marketingpotential
-mit verhältnismässig geringem Aufwand.
+denen schon am Markt erhÃ¤ltlichen Programmen zu unterscheiden, sondern ganz gezielt auf
+MarketinglÃ¼cken dieser Produkte abzuzielen. 
+Da wir momentan mit noch wenig finanzieller RÃ¼ckendeckung agieren, die uns im Bereich Publicity
+ein groÃŸe Hilfe sein kÃ¶nnte, mÃ¼ssen wir uns auf einen schleppenden Start einstellen.
+Es bleibt zu berÃ¼cksichtigen, dass trotz Ãœberlegenheit unseres Produkts im Hinblick
+auf viele Designfeatures, all unsere BemÃ¼hungen umsonst sind, wenn wir unsere Kundschaft
+nicht erreichen kÃ¶nnen. 
+
+Eine kurzfristige MÃ¶glichkeit um den schleppenden Start zu verkÃ¼rzen, wÃ¤re Kontakt mit 
+Health Influencern aufzunehmen. Wenn wir beispielsweise einflussreiche Personen mit BeeintrÃ¤chtigungen,
+oder chronischen Erkrankungen, in unsere Appplanung mit einbeziehen ergeben sich zweierlei MÃ¶glichkeiten.
+Ein relativ kostengÃ¼nstiger Zugang zu Betat-Testern und ein groÃŸartiges Marketingpotential
+mit verhÃ¤ltnismÃ¤ssig geringem Aufwand.
 
