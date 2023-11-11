@@ -5,7 +5,7 @@ Diese tägliche Routine kann für gewisse Personengruppe eine nicht zu untersch�
 Genau in diesem Punkt soll unsere App eingreifen und Unterstützung bieten!
 
 Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterstützung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.
-'''''''
+
 - M - MODERN
 - E - EINZIGARTIG
 - D - 
