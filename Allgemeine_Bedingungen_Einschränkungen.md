@@ -3,7 +3,7 @@
 ## Organisatorische Einschränkungen und Framework Bedingungen ##
 
 Wir sind eine unabhängiges Entwicklerteam, dass sich in seiner Freizeit mit der Entwicklung
-der ** App Medikuh ** beschäftigt. Unser Budget ist momentan beschränkt auf die Ressourcen, die uns durch
+der **App Medikuh** beschäftigt. Unser Budget ist momentan beschränkt auf die Ressourcen, die uns durch
 unsere anderen Einkünfte zur Verfügung stehen. Wir sind offen für Interessierte, die sich finanziell 
 an diesem Projekt beteiligen wollen.
 Wir haben ein gutes Basiswissen im Bereich Datenbanken und Grafikdesign. Daher können wir dieses Wissen gut 
