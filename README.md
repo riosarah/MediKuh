@@ -14,7 +14,52 @@ Da es es sich hierbei um sensible Daten handelt, werden Daten eines Users vertra
 ## Aufgabenverteilung:
 
 ### Initial situation: (Ralph)
-...
+
+>Beim Umgang mit Medikamenten ist Sorgfalt gefragt. 
+>Man muss sie zur richtigen Zeit und korrekt dosiert einnehmen. 
+>Apps für das Smartphone können dabei helfen, den Überblick zu behalten.
+
+Die aktuell marktdominierenden Apps sind:
+
+- Mediteo
+- MyTherapy
+- Medisafe
+
+Viele dieser Applikationen tracken nicht nur die Medikamenteneinnahme,
+sondern auch Stimmung, Gewicht, Blutdruck oder Symptome hinsichtlich chronischer
+Erkrankungen, manche Apps verwenden sogar KI-Assistenten.
+
+Die größten Schwachstellen zur Zeit sind:
+
+**1. Unzureichende Stabilität der Applikation**
+  - Fehleranfällig durch zu komplexen Aufbau
+**2. Accessibility**
+  - Zu viel und unzureichend benutzerfreundlicher Text
+  - Wenige Bilder
+**3. Intransparenz**
+  - Teilweise nicht ersichtlich, wie Geld verdient wird
+    (Bsp. Kooperationen mit Apotheken)
+**4. Customization**
+  - Fehlende Optionen hinsichtlich verschiedener Einschränkungen
+  - UI/UX-Anpassungen (körperliche oder visuelle Beeinträchtigungen)
+
+
+Die Person sollte im Mittelpunkt der Gestaltung der UI/UX stehen:
+
+**1. Wahrnehmbar**
+   - Informationen un Bestandteile der Benutzerschnittstelle müssen
+     den Benutzern so präsentiert werden, dass diese sie wahrnehmen können
+
+**2. Bedienbar**
+   - Einfache Bedienbarkeit der Navigation muss gegeben sein
+  
+**3. Verständlich**
+   - Informationen und Bedienung müssen verständlich sein
+
+**4. Robust**
+   - Inhalte müssen robust genug sein, damit sie von einer großen Auswahl an Benutzer,
+     einschließlich assistierender Techniken interpretiert werden können
+
 
 ### General conditions and constraints: (Sarah)
 ...
