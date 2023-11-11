@@ -4,7 +4,7 @@ Diese t채gliche Routine kann f체r gewisse Personengruppe eine nicht zu untersch�
 
 Genau in diesem Punkt soll unsere App eingreifen und Unterst체tzung bieten!
 
-Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterst체tzung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.
+Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterst체tzung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.k
 '''
 - M - MODERN
 - E - EINZIGARTIG
