@@ -14,59 +14,67 @@ Da es es sich hierbei um sensible Daten handelt, werden Daten eines Users vertra
 ## Aufgabenverteilung:
 
 ### Initial situation: (Ralph)
+<br>
 
-
->Beim Umgang mit Medikamenten ist Sorgfalt gefragt. 
->Man muss sie zur richtigen Zeit und korrekt dosiert einnehmen. 
->Apps für das Smartphone können dabei helfen, den Überblick zu behalten.
-
+Beim Umgang mit Medikamenten ist Sorgfalt gefragt. 
+Man muss sie zur richtigen Zeit und korrekt dosiert einnehmen. <br>
+Apps für das Smartphone können dabei helfen, den Überblick zu behalten.
 
 Die aktuell marktdominierenden Apps sind:
 
-- Mediteo
-- MyTherapy
-- Medisafe
+*Mediteo*<br>
+*MyTherapy*<br>
+*Medisafe*
 
 Viele dieser Applikationen tracken nicht nur die Medikamenteneinnahme,
-sondern auch Stimmung, Gewicht, Blutdruck oder Symptome hinsichtlich chronischer
-Erkrankungen, manche Apps verwenden sogar KI-Assistenten.
+sondern auch Stimmung, Gewicht, Blutdruck oder Symptome<br> 
+hinsichtlich chronischer Erkrankungen, manche Apps verwenden sogar KI-Assistenten.
+<br>
+<br>
 
+### Die größten Schwachstellen zur Zeit sind:
 
-Die größten Schwachstellen zur Zeit sind:
+**Unzureichende Stabilität der Applikation**
 
-1. Unzureichende Stabilität der Applikation
-  - Fehleranfällig durch zu komplexen Aufbau
+        Fehleranfällig durch zu komplexen Aufbau
     
-2. Accessibility
-  - Zu viel und unzureichend benutzerfreundlicher Text
-  - Wenige Bilder
+**Accessibility**
+
+        Zu viel und unzureichend benutzerfreundlicher Text
+        Wenige Bilder
+
+**Customization**
+
+        Fehlende Optionen hinsichtlich verschiedener Einschränkungen
+        UI/UX-Anpassungen (körperliche oder visuelle Beeinträchtigungen)
     
-3. Intransparenz
-  - Teilweise nicht ersichtlich, wie Geld verdient wird
-    (Bsp. Kooperationen mit Apotheken)
+**Intransparenz**
 
-4. Customization
-  - Fehlende Optionen hinsichtlich verschiedener Einschränkungen
-  - UI/UX-Anpassungen (körperliche oder visuelle Beeinträchtigungen)
+        Teilweise nicht ersichtlich, womit Geld verdient wird
+        (Bsp. Kooperationen mit Apotheken)
+<br>
 
+### Die Person sollte im Mittelpunkt der Gestaltung der UI/UX stehen:
 
-Die Person sollte im Mittelpunkt der Gestaltung der UI/UX stehen:
+**Wahrnehmbar**
 
-**1. Wahrnehmbar**
-   - Informationen un Bestandteile der Benutzerschnittstelle müssen
-     den Benutzern so präsentiert werden, dass diese sie wahrnehmen können
+        Informationen un Bestandteile der Benutzerschnittstelle müssen
+        den Benutzern so präsentiert werden, dass diese sie wahrnehmen können
 
-**2. Bedienbar**
-   - Einfache Bedienbarkeit der Navigation muss gegeben sein
+**Bedienbar**
+
+        Einfache Bedienbarkeit der Navigation muss gegeben sein
   
-**3. Verständlich**
-   - Informationen und Bedienung müssen verständlich sein
+**Verständlich**
 
-**4. Robust**
-   - Inhalte müssen robust genug sein, damit sie von einer großen Auswahl an Benutzer,
-     einschließlich assistierender Techniken interpretiert werden können
+        Informationen und Bedienung müssen verständlich sein
 
+**Robust**
 
+        Inhalte müssen robust genug sein, damit sie von einer großen Auswahl an Benutzer,
+        einschließlich assistierender Techniken interpretiert werden können
+
+<hr>
 ### General conditions and constraints: (Sarah)
 ...
 
