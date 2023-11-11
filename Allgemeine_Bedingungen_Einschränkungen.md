@@ -11,7 +11,7 @@ in die Projektplanung einfließen lassen.
 Die Planung des Projekts befindet sich in der Metaphase. Während der Projektplanung sind wir offen dafür, 
 Investoren und weitere Mitarbeiter anzuwerben.
 
-Unsere Verpflichten gegenüber diesem Projekt bedingen sich durch unsere Teilnahme an dem Kurs * Systemplanung und Projektmanagement *.
+Unsere Verpflichten gegenüber diesem Projekt bedingen sich durch unsere Teilnahme an dem Kurs *Systemplanung und Projektmanagement*.
 Die Deadline für die Abgabe der ersten Outline ist der 24 Dezember. 
 
 
