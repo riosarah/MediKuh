@@ -8,11 +8,11 @@ Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlre
 
 - M - MODERN
 - E - EINZIGARTIG
-- D - 
+- D - DAUERHAFT
 - I - INNOVATIV
-- K - 
-- U - 
-- H - 
+- K - KOSTENGÜNSTIG
+- U - UNKOMPLIZIERT
+- H - HILFEGEBEND
 
 
 
