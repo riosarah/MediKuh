@@ -14,9 +14,7 @@ Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlre
 - U - UNKOMPLIZIERT
 - H - HILFEGEBEND
 
-
-
-
-, the introduction of innovations, the definition of objectives (quality, deadline
-and cost objectives), the operation of the system in its operating environment and the use of new,
-improved functionalities
+Wichtige Schritte:
+- Kooperation mit Ärtzen und Seniorenheimen.
+- Zusammenarbeit ev mit Herstellern von bestimmten Handymarken (Pre-Instalation).
+- 
