@@ -5,7 +5,7 @@ Diese tägliche Routine kann für gewisse Personengruppe eine nicht zu untersch�
 Genau in diesem Punkt soll unsere App eingreifen und Unterstützung bieten!
 
 Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlreiche Programme, die eine diesbezgl. Unterstützung bieten (wollen), aber  - unserer Meinung nach - keine derartige Individualiserung bieten.
-
+Dafür steht die App:
 - M - MODERN
 - E - EINZIGARTIG
 - D - DAUERHAFT
@@ -14,7 +14,12 @@ Wie man bereits nach kurzer Recherche herausfinden kann, gibt es am Markt zahlre
 - U - UNKOMPLIZIERT
 - H - HILFEGEBEND
 
-Wichtige Schritte:
+
+## Wichtige Schritte: ##
 - Kooperation mit Ärtzen und Seniorenheimen.
-- Zusammenarbeit ev mit Herstellern von bestimmten Handymarken (Pre-Instalation).
-- 
+- Zusammenarbeit ev mit Herstellern bestimmter Handymarken (Pre-Instalation).
+- Festlegen der einzelnen Teams (Anzahl, Budget, ...) - IT, Marketing, Organisation.
+- Datenschutz: Rechtliche Situation klären, da es sich um personenbezogene Daten handelt.
+- Service: Wie soll den Usern bei Fragen gehalofen werden.
+- Haftung: Wie gehen wir mit Problemen um (Falscheinnahme)?
+- Testphase: Detailplanung erforderlich (ev mit Seniorenheim etc).
