@@ -76,11 +76,11 @@ hinsichtlich chronischer Erkrankungen, manche Apps verwenden sogar KI-Assistente
 
 <hr>
 ### General conditions and constraints: (Sarah)
-[Allgemeine_Bedingungen_Einschränkungen]([Allgemeine_Bedingungen_Einschränkungen.md](https://github.com/riosarah/MediKuh/blob/main/Allgemeine_Bedingungen_Einschr%C3%A4nkungen.md))
+[Allgemeine_Bedingungen_Einschränkungen]([Allgemeine_Bedingungen_Einschränkungen.md](https://github.com/riosarah/MediKuh/blob/main/Allgemeine_Bedingungen_Einschr%C3%A4nkungen.md)
 
 ### Project objectives and system concepts: (Jürgen)
-...
+[Möglichkeiten_Risiken](https://github.com/riosarah/MediKuh/blob/main/M%C3%B6glichkeiten_Risiken.md)
 
 ### Opportunities and risks: (Sarah)
-...
+[Objectives_Concepts](https://github.com/riosarah/MediKuh/blob/main/objectives_concepts.md)
 
