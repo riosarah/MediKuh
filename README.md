@@ -76,7 +76,7 @@ hinsichtlich chronischer Erkrankungen, manche Apps verwenden sogar KI-Assistente
 
 <hr>
 ### General conditions and constraints: (Sarah)
-...
+[Allgemeine_Bedingungen_Einschränkungen](Allgemeine_Bedingungen_Einschränkungen.md)
 
 ### Project objectives and system concepts: (Jürgen)
 ...
