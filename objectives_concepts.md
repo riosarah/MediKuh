@@ -23,3 +23,6 @@ Dafür steht die App:
 - Service: Wie soll den Usern bei Fragen gehalofen werden.
 - Haftung: Wie gehen wir mit Problemen um (Falscheinnahme)?
 - Testphase: Detailplanung erforderlich (ev mit Seniorenheim etc).
+
+
+Finanzierung!!!!
