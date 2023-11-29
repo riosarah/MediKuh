@@ -21,10 +21,6 @@ hängt von den Rahmenbedingungen des Projekts in der aktiven Durchführungsphase
 Das Grundgerüst des Projekts wird auf C# aufbauen, während das grafische Design auf Adope basierten Applikationen aufbauen soll.
 Außer unseren Rechnern werden mehrere mobile Geräte angeschafft werden müssen, um ein glattes Ablaufen auf diesen zu testen.
 
-Ein Hauptaugenmerk unserer App soll die Barrierefreiheit sein. Hier möchten wir weit über die Mindestanforderungen hinaus gehen.
-Über der einfachen Lesbarkeit, durch Legasthenie- Freundliche Schrift, Farbblindheitsfreundliches Design. 
-Die App soll für assistive Technologien mühelos auslesbar sein. Der Text ist bis auf 200% vergrößerbar.
-Alle Bedienungselemente sollen in ihrer Funktion größtmöglich visuell erkennbar sein.
 
 ### Datenschutz ###
 Wir streben an unsere App auf verschiedenen Betriebssystemen laufen lassen zu können. Die dafür geltenden Datenbestimmung
