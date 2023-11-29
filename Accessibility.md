@@ -2,6 +2,8 @@
 
 Ein Hauptaugenmerk unserer App soll die Barrierefreiheit sein. Hier möchten wir weit über die Mindestanforderungen hinaus gehen. Das User-Experience ist eines unserer Hauptanliegen.
 
+Laut einer Studie von Shunguo Yan und P. G. Ramachandran, zwei Accessibilty Forschern in Texas, über "The Current Status of Accessibility in Mobile Apps" gibt es ein paar Kernelemente, an der die Accessibilty von Apps oft scheitert. In 97 Prozent der Fällen, scheiterte es an fehlenden Elementfokus, fehlende Elementbeschreibungen, geringen Text-Farbkontrast, unzureichenden Abstand zwischen Elementen und Unterschreitung der minimalen Textschriftgrößen und Elementgrößen verursacht. Zusammen genommen machten diese Barrierefreiheitsprobleme 97,0% der Verstöße aus.
+
 
 Das Hauptinterface soll in der Darstellung extrem minimalistisch und intuitiv gestaltet sein. Um sich an alle Bedürfnisse des Users anpassen zu können, sollen viele Elemente der Oberfläche individualisierbar sein. 
 Folgende Möglichkeiten sind in den Einstellungen wählbar:
