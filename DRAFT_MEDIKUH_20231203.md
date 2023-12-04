@@ -80,7 +80,7 @@ Laut einer Studie von Shunguo Yan und P. G. Ramachandran, zwei Accessibilty Fors
 über "The Current Status of Accessibility in Mobile Apps" gibt es ein paar Kernelemente, <br>
 an der die Accessibilty von Apps oft scheitert. In 97 Prozent der Fällen, scheiterte es an fehlenden Elementfokus, <br>
 fehlende Elementbeschreibungen, geringen Text-Farbkontrast, unzureichenden Abstand zwischen Elementen <br>
-und Unterschreitung der minimalen Textschriftgrößen und Elementgrößen verursacht. <br>
+und Unterschreitung der minimalen Textschriftgrößen und Elementgrößen. <br>
 Zusammen genommen machten diese Barrierefreiheitsprobleme 97,0% der Verstöße aus.
 
 
