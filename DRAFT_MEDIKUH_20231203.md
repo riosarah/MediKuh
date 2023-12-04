@@ -33,7 +33,7 @@ Die aktuell marktdominierenden Apps sind:
 > - **MyTherapy**<br>
 > - **Medisafe**
 
-### Biggest vunerabilities:
+### Biggest vulnerabilities:
 
 <br>
 
@@ -58,7 +58,7 @@ Teilweise nicht ersichtlich, womit Geld verdient wird
 <br>
 
 **Wahrnehmbar**<br>
-Informationen un Bestandteile der Benutzerschnittstelle müssen <br>
+Informationen und Bestandteile der Benutzerschnittstelle müssen <br>
 den Benutzern so präsentiert werden, dass diese sie wahrnehmen können.
 
 **Bedienbar**<br>
