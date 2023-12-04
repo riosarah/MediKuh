@@ -4,7 +4,7 @@
 
 ## Projekt Outline
 
-Das Projekt <b>MediKuh<b/> geht jenes Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, <br>
+Das Projekt **MediKuh** geht jenes Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, <br>
 wenn es um die tägliche Einnahme von wichtigen Medikamenten geht.
 Mithilfe moderner Technik sollen diese Personengruppen <br>
 bei der Einnahme von Medikamenten unterstützt werden (Erinnerung). <br>
@@ -33,7 +33,7 @@ Die aktuell marktdominierenden Apps sind:
 > - **MyTherapy**<br>
 > - **Medisafe**
 
-### Die größten Schwachstellen aktuell:
+### Biggest vunerabilities:
 
 <br>
 
@@ -53,7 +53,7 @@ Teilweise nicht ersichtlich, womit Geld verdient wird
 <br>
 <br>
 
-### Die Person soll im Mittelpunkt der Gestaltung der UI/UX stehen:
+### Person focused concept at the center of the UI/UX design:
 
 <br>
 
@@ -70,6 +70,8 @@ Informationen und Bedienung müssen verständlich sein.
 **Robust**<br>
 Inhalte müssen robust genug sein, damit sie von einer großen Auswahl an Benutzer, <br>
 einschließlich assistierender Techniken interpretiert werden können.
+
+
 
 ## Accessibilty
 
@@ -100,7 +102,7 @@ Die App hat einen integrierten Screen-Reader, der alle Bedienungselemente und In
 Die Benutzung dieses Elementes wird beim ersten Download der App abgefragt <br>
 und kann zu einem späteren Zeitpunkt in den Einstellungen wieder aktiviert werden.
 
-### Weitere Elemente:
+### Additional elements:
 
 Barcodescanner für Medikamente
 Eine Option zur Medikamentensuche soll das Scannen von Medikamenten - Barcode sein. <br>
@@ -116,34 +118,33 @@ Stimmunterstütze Suche kann anstelle von Medikamentenname - Eingabe oder Barcod
 <br>
 
 
-## Datensicherheit
+## Data security
 
 Wir streben an unsere App auf verschiedenen Betriebssystemen laufen lassen zu können. <br>
 Die dafür geltenden Datenbestimmung werden wir für unser Programm selbstverständlich umsetzen. <br>
 Da unser System mit medizinisch heiklen Daten arbeitet, die als besonders schützenswerte Daten deklariert sind, <br>
 muss darauf besonderes Augenmerk gelegt werden. <br>
 So ist neben der eigentlichen Appentwicklung der Datenschutz eines unserer wichtigsten Schwerpunkte. <br>
+
 Unsere App soll zu Beginn mit minimalen Standardberechtigungen funktionieren, um Sicherheitsentscheidungen zu vereinfachen.
 
-Mit einem auf die Sicherheitsbestimmungen angepassten Anwendungsframework, stellen wir sicher, <br>
+Mit einem, auf die Sicherheitsbestimmungen angepassten, Anwendungsframework, stellen wir sicher, <br>
 dass wir die Daten so verschlüsseln, dass andere Applikationen nicht darauf zugreifen können. <br>
 Es schränkt auch die Berechtigungen und Zugriffe anderer Programme auf unsere internen Daten auf den Mobilgeräten ein.
 
-Wir verwenden Pseudonymisierung für die Verschlüsselung unserer Daten. Daten werden außerhalb des Endnutzergeräts nur verschlüsselt gespeichert, <br>
-so dass diese selbst bei einem Datenleak nicht den Benutzern zugeordnet werden können. 
+Wir verwenden **Pseudonymisierung** für die Verschlüsselung unserer Daten. Daten werden außerhalb des Endnutzergeräts nur verschlüsselt gespeichert, so dass diese selbst bei einem Datenleak nicht den Benutzern zugeordnet werden können. <br>
 
-Um ein gültiges Verzeichnis der erfassten Einwilligungen speichern und sicher verwahren zu können, benötigt unsere App einen Netzwerkzugang <br>
-und einen Cloudspeicher mit hochgradiger Datenverschlüsselung. <br>
+Um ein gültiges Verzeichnis der erfassten Einwilligungen speichern und sicher verwahren zu können, benötigt unsere App einen Netzwerkzugang und einen Cloudspeicher mit hochgradiger Datenverschlüsselung. <br>
 Hierbei werden alle Personenbezogenen Daten nur Identifikationsnummern für die heruntergeladene Applikation zugeordnet. <br>
 So soll das Risiko von medizinischem Profiling über unsere Datenbank verringert werden.
 
 Regelmäßige Risikoanalyse unserer Technischen Sicherheit. 
-Patch Management um Sicherheitslücken zu schließen. <br>
-Ablauf und Prozedere wird im 6-Monatsupdate festgehalten.
+- Patch Management um Sicherheitslücken zu schließen. <br>
+- Ablauf und Prozedere wird im 6-Monatsupdate festgehalten.
 
 
 
-**Lokaler Datenspeicher:** <br>
+### Local data storage: <br>
 Aktualisieren des internen Speichers der App auf dem Endnutzergerät in regelmäßigen Abständen.<br>
 Externe Daten können nur aus von uns genehmigen Quellen in das Programm geladen werden.<br>
 Wir nutzen Systeme, wie Adress Space Layout Randomization (ASLR) und No-Execute (NX)um Speicherverwaltungsfehler zu reduzieren.<br>
@@ -153,11 +154,12 @@ Zugriffe auf Kamera - Fotos sollen nicht gespeichert werden.
 
 <br>
 
-# Allgemeine Bedingungen und Einschränkungen
 
-## Organisatorische Einschränkungen und Framework Bedingungen
+## General conditions and constraints
 
-Wir sind eine unabhängiges Entwicklerteam, dass sich in seiner Freizeit mit der Entwicklung
+### Organisational constraints and und framework conditions
+
+Wir sind ein unabhängiges Entwicklerteam, dass sich in seiner Freizeit mit der Entwicklung
 der **App Medikuh** beschäftigt. <br>
 Unser Budget ist momentan beschränkt auf die Ressourcen, die uns durch unsere anderen Einkünfte zur Verfügung stehen. <br>
 Wir sind offen für Interessierte, die sich finanziell an diesem Projekt beteiligen wollen.<br>
@@ -167,29 +169,14 @@ Die Planung des Projekts befindet sich in der Metaphase. Während der Projektpla
 Investoren und weitere Mitarbeiter anzuwerben.
 
 Unsere Verpflichtungen gegenüber diesem Projekt bedingen sich durch unsere Teilnahme an dem Kurs *Systemplanung und Projektmanagement*.<br>
-Die Deadline für die Abgabe der ersten Outline ist der 24 Dezember. 
 
 
-## Technische Einschränkungen ##
+### Technical constraints ##
 Alle Unterlagen sind momentan auf GitHub verfügbar. <br>
-Ob der eigentliche Code einsehbar sein wird, ist noch nicht absehbar und hängt von den Rahmenbedingungen des Projekts<br>
- in der aktiven Durchführungsphase ab.<br>
+Ob der eigentliche Code einsehbar sein wird, ist noch nicht absehbar und hängt von den Rahmenbedingungen des Projekts, 
+in der aktiven Durchführungsphase ab.<br>
 Das Grundgerüst des Projekts wird auf C# aufbauen, während das grafische Design auf Adobe basierten Applikationen aufbauen soll.<br>
 Außer unseren Rechnern werden mehrere mobile Geräte angeschafft werden müssen, um ein glattes Ablaufen auf diesen zu testen.
-
-
-### Datenschutz ###
-Wir streben an unsere App auf verschiedenen Betriebssystemen laufen lassen zu können. Die dafür geltenden Datenbestimmung
-werden wir für unser Programm selbstverständlich umsetzen. <br>
-Da unser System mit medizinisch heiklen Daten arbeitet, 
-muss darauf besonderes Augenmerk gelegt werden. <br>
-So ist neben der eigentlichen Appentwicklung
-der Datenschutz eines unserer wichtigsten Schwerpunkte.
-
-Um ein gültiges Verzeichnis der erfassten Einwilligungen speichern und sicher verwahren zu können, benötigt unsere App einen Netzwerkzugang, <br>
-bzw braucht es einen möglichst sicheren Cloudspeicher mit hochgradiger Datenverschlüsselung. <br>
-Um den bestmöglichen Sicherheitsstandard zu erreichen, werden wir vorraussichtlich Experten in diesem Bereich 
-hinzuziehen müssen.
 
 <br>
 
@@ -213,9 +200,9 @@ aber - unserer Meinung nach - keine derartige Individualiserung bieten.
 
 <br>
 
-## Wichtige Schritte: ##
+### Importand steps:
 - Kooperation mit Ärzten und Seniorenheimen.
-- Zusammenarbeit eventuell mit Herstellern bestimmter Handymarken (Pre-Instalation).
+- Zusammenarbeit mit Herstellern bestimmter Handymarken (Pre-Instalation).
 - Festlegen der einzelnen Teams (Anzahl, Budget, ...) - IT, Marketing, Organisation.
 - Datenschutz: Rechtliche Situation klären, da es sich um personenbezogene Daten handelt.
 - Service: Wie soll den Usern bei Fragen geholfen werden.
@@ -225,9 +212,9 @@ aber - unserer Meinung nach - keine derartige Individualiserung bieten.
 <br>
 
 
-## Möglichkeiten und Risiken 
+## Opportunities and risks
 
-### Marktanalyse und potenzielle Kundschaft ##
+### Market analysis and potential customers 
 Laut der Statistik Austria wird der Bevölkerungsanteil der über 65 Jährigen in den 30er Jahren 25 Prozent der Bevölkerung ausmachen.<br>
 Wenn man allein auf die wachsende Anzahl zukünftigen Senioren den Fokus legt, die anders als vorherige ältere Generationen, <br>
 ein immer besseres Verständnis von Technik aufweist, zeigten sich ganz klare Wachstumsmöglichkeiten für unsere App heraus. 
@@ -238,7 +225,7 @@ Dass nun immer mehr Anbieter auf diesen Markt einsteigen, zeigt auch die steigen
 Gleichzeitig kristallisiert sich in den letzten Jahren ein Mangel an Pflegepersonal hervor, die diese Bevölkerungsgruppe im Alltag unterstützen könnte.<br>
 Hier werden unterstützende Werkzeuge einen immer wichtigeren Platz einnehmen.
 
-Eine weitere Kundschaft, die noch leichter aufzuschließen wäre, sind der Anteil psychisch oder chronisch kranker Menschen in Österreich.<br>
+Eine weitere Kundschaft, die noch leichter aufzuschließen wäre, sind der Anteil psychisch oder chronisch kranker Menschen in Österreich.<br> Diese Gruppierung beschränkt sich nicht auf ein bestimmtes Alter. Somit können wir, im Gegensatz zur Gruppe der Senioren, von durchschnittlichen technischen Fähigkeiten ausgehen. 
 Allein fünf Prozent der Österreicher sind mit schweren psychiatrischen Erkrankungen diagnostiziert <br>
 und auf die regelmäßige Einnahme von **Psychopharmaka** angewiesen ist. <br>
 Aber auch unter der Gesamtbevölkerung nimmt der Einsatz von Psychopharmaka zu. <br>
@@ -257,7 +244,7 @@ Ein intuitiveres Design, dass auf die nötigsten Daten abgespeckt ist, kommt uns
 Ohne dass es notwendig ist, ewig viele Zeilen zu lesen, oder einzugeben, kann unsere App anhand der Symbolbilder kinderleicht bedient werden.
 
 
-## Profitchancen ##
+## Profit opportunities ##
 Der Marktführer Smartpatient mit seiner App "MyTherapy" wird von rund 1,4 Millionen Patienten Europaweit genutzt. <br>Der Konkurent "Arznei aktuell" hat laut eigenen Angaben 250 Tausend regelmäßige Nutzer. <br>
 
 Selbst "Mediteo", eine Medikamenten-App, die erst vor kurzem als Testsieger von Stiftung Warentest ausgezeichnet wurde, <br>
@@ -266,7 +253,7 @@ Auch hier braucht es eine Weile, um sich mit der Flut an Möglichkeiten zurecht 
 
 
 
-## Verlustrisiko und wahrscheinliche Verluste ##
+## Risks and potential losses ##
 Durch die sehr bekannten Konkurrenten am Markt, könnten sich Schwierigkeiten beim Erreichen von potenziellen Kunden auftuen. <br>
 Hier ist es sehr wichtig, sich nicht nur optisch von denen schon am Markt erhältlichen Programmen zu unterscheiden, <br>
 sondern ganz gezielt auf Marketinglücken dieser Produkte abzuzielen. <br>
@@ -280,21 +267,21 @@ all unsere Bemühungen umsonst sind, wenn wir unsere Kundschaft nicht erreichen 
 Eine kurzfristige Möglichkeit, um den schleppenden Start zu verkürzen, wäre Kontakt mit Health Influencern aufzunehmen. <br>
 Wenn wir beispielsweise einflussreiche Personen mit Beeinträchtigungen,<br>
 oder chronischen Erkrankungen, in unsere Appplanung mit einbeziehen ergeben sich zweierlei Möglichkeiten. <br>
-Ein kostengünstiger Zugang zu Betat-Testern und ein großartiges Marketingpotential mit verhältnismäßig geringem Aufwand.
+Ein kostengünstiger Zugang zu Beta-Testern und ein großartiges Marketingpotential mit verhältnismäßig geringem Aufwand.
 
 <br>
 
-## Kalkulation
+## Financial calculations
 Bei der Entwicklung unserer Gesundheits-App sind uns - zusätzlich zu technischen Aspekten - <br>
 auch die finanziellen Punkte natürliche einige Überlegungen wert:
 
->Gesamtbudget: **EUR 30000**<br>
->Kosten: **EUR 26000**<br>
->Differenz: **EUR 4000** für zusätzliche Kosten
+>Gesamtbudget: **EUR 30.000**<br>
+>Kosten: **EUR 26.000**<br>
+>Differenz: **EUR 4.000** für zusätzliche Kosten
 
 Hierfür unterscheiden wir 3 Gruppen:
 
-### Entwicklungskosten:
+### Development cost:
 Die Kosten für die Entwicklung einer Gesundheits-App können je nach Umfang und Komplexität der App variieren. <br>
 Laut einer Studie betragen die durchschnittlichen Kosten für die Entwicklung einer App zwischen 20 und 30.000 Euro. <br> 
 Quelle: ![starting-up.de](www.starting-up.de)
@@ -302,21 +289,21 @@ Quelle: ![starting-up.de](www.starting-up.de)
 Denn der zeitliche Aufwand, Komplexität und Funktionsumfang einer mobilen App ist ausschlaggebend für den Preis. <br>
 Für folgende Bereiche fallen bei der App-Entwicklung Kosten an:
 
-**Planungsphase (Zielfindung) - EUR 2000**
+**Planungsphase (Zielfindung) - EUR 2.000**
 - Erstellung von Mockups, Design-Patterns
 - Definition von Zielfunktionen
 - Konkurrenzanalyse ev mit externer Hilfe (Agentur)
 
-**App Design - EUR 2000**
+**App Design - EUR 2.000**
 - optische Gestaltung (UI)
 - Benutzerfreundlichkeit (UX)
 - Ein UI/UX-Designer kostet im Durchschnitt 100 € pro Stunde bzw. **EUR 1000** Tagessatz.
 
-**Programmierung und Testing - EUR 10000**
+**Programming and testing - EUR 10.000**
 - In dieser Phase folgt die tatsächliche Programmierung der App.
 - Das Programmieren ist der zeit- und kostenintensivste Teil bei der Entwicklung einer App.
 
-**--- Unser Approach ---**
+**--- Our Approach ---**
 Unter Einbeziehung obiger Kosten würden wir einen Prototyp bzw. MVP (*Minimum viable product, Quelle: [t2informatik.de](https://t2informatik.de/wissen-kompakt/minimum-viable-product))*<br>
 also ein brauchbares Produkt mit minimalen Eigenschaften entwickeln. Dieser Ansatz zielt auf frühzeitiges Nutzer- und Marktfeedback ab.
 
@@ -327,7 +314,7 @@ und die Kosten für die Entwicklung einiger erfolgreicher Apps und kam zu folgen
 Die MVP-Version von Tinder kostete zwischen **35.000 bis 50.000 Euro**.
 
 
-### Marketingkosten:
+### Marketingcosts:
 Beim App-Marketing geht es um die Interaktion mit Nutzern. <br>
 Dort angefangen, wo diese das erste Mal von unserer App gehört haben, bis dahin, wo sie treue User sind, die unsere App täglich nutzen.
 
@@ -337,14 +324,14 @@ Zu guter Letzt soll auch die App-Store-Optimierung durchgeführt werden.<br>
 Wir werden ca. 30 % des Budgets für Werbung einplanen. Somit sind das dann **EUR 9000**.
 
 
-### Wartungskosten:
+### Maintenance costs:
 Nach der Veröffentlichung Ihrer App müssen wir Wartungskosten berücksichtigen, um sicherzustellen, <br>
 dass unsere App reibungslos funktioniert und auf dem neuesten Stand bleibt.<br>
 Lt. Studien können sich App-Wartungskosten auf ca. 20% der Entwicklungskosten belaufen (Quelle: [uhp.digital](https://uhp.digital/blog/was-kostet-eine-app)).<br>
 Wir veranschlagen hierfür ca. **EUR 3000**.
 
 
-### Monetarisierung:
+### Monetization:
 Es gibt verschiedene Möglichkeiten mit einer App Geld zu verdienen. Einige der gängigsten Modelle sind Werbung, In-App-Käufe und Abonnements <br>
 Uns ist bewusst, dass es wichtig ist, das richtige Monetarisierungsmodell auswählen, um sicherzustellen, dass wir genügend Einnahmen generieren, <br>
 um Kosten zu decken aber gleichzeitig die User nicht durch hohe Preise abschrecken.
@@ -371,9 +358,9 @@ Daher würden wir eine Standardvariante (kostenlos) und eine Premium-Variante (*
 <img src="https://raw.githubusercontent.com/riosarah/MediKuh/main/pictures/financePic4.jpeg" alt="drawing" width="1000"/> <br>
 <img src="https://raw.githubusercontent.com/riosarah/MediKuh/main/pictures/financePic5.jpeg" alt="drawing" width="1000"/> <br>
  
-## Planung
+## Planing
 
-### A. Zeitplan und Meilensteine
+### A. Timeframe and Milestones
 - Entwicklungsphasen: Unterteilung der App-Entwicklung in Phasen (z.B. Erstentwurf, Prototyping, Beta-Test, endgültige Veröffentlichung).
 - Meilensteine: Festlegung spezifischer Ziele für jede Phase mit geschätzten Fertigstellungsterminen.
 - Startzeitpunkt: 1.1.2024
@@ -404,7 +391,7 @@ Daher würden wir eine Standardvariante (kostenlos) und eine Premium-Variante (*
 **15 Monate Release**
 - Full release von MediKuh
  
-### B. Ressourcenzuweisung
+### B. Ressource allocation
 - Teamzusammensetzung: Darstellung der benötigten Rollen (z.B. Entwickler, Designer, Qualitätssicherungstester) und der Teamstruktur.
 - Budget: Kostenschätzung für jede Phase, einschließlich Software, Hardware und Personal.
 - Public Relations und Marketing - Ralph und Sarah
@@ -415,19 +402,19 @@ Daher würden wir eine Standardvariante (kostenlos) und eine Premium-Variante (*
 - Angebote von Consultingfirma einholen für Praxistests
 
  
-### C. Technologie und Werkzeuge
+### C. Technology and tools
 - Entwicklungswerkzeuge: Spezifizierung der Software und Plattformen, die für die App-Entwicklung verwendet werden.
 - Mit Framework Xamarin können wir mit C# sowohl für Android als auch iOS arbeiten.
 - Datensicherung vorerst getrennt von öffentlich Datenbanken. – Sicherheitsrisiko;
 - Details – siehe „Datensicherheit“.
 
  
-### D. Benutzererfahrung und Design
+### D. User experience and design
 - Benutzeroberfläche: Detaillierung des Designprozesses für die Benutzeroberfläche der App, mit Fokus auf Benutzerfreundlichkeit und Zugänglichkeit.
 - Benutzertests: Planung von Benutzertestphasen, um Feedback zu sammeln und die App zu verbessern.
 - Design mit Unterstützung von Frau Prof Rammelmüller.
  
-### E. Marketing- und Startstrategie
+### E. Marketing- and startingstrategy
 - Marketingplan: Erstellung eines Plans zur Bewerbung der App, gezielt auf potenzielle Nutzer und Gesundheitsdienstleister.
 - Anfänglich kostenloser Zugang
 - Werbekampagne in Altenheimen
@@ -435,24 +422,24 @@ Daher würden wir eine Standardvariante (kostenlos) und eine Premium-Variante (*
 - Vertreter die unsere App an Psychiater anpreisen
 
  
-### F. Risikomanagement und Notfallplanung
+### F. Risk managment and emergency planning
 - Risikoidentifizierung: Auflistung potenzieller Risiken (z.B. technische Probleme, Budgetüberschreitungen) und deren Wahrscheinlichkeit.
 - Notfallpläne: Entwicklung von Plänen zur Bewältigung dieser Risiken, falls sie eintreten.
 - Finanzielle Überbrückung von Notsituationen über Fremdkapital von Bank
 - Rückgreifen auf Startkapital, um Überleben aller Mitarbeiter sicherzustellen
 
-### G. Rechtliche und Compliance-Überlegungen
+### G. Legal and compliance considerations
 - Datenschutz: Sicherstellung der Einhaltung von Datenschutzgesetzen (wie GDPR oder HIPAA) durch die App.
 - Regulatorische Genehmigung: Planung zur Erlangung aller notwendigen Genehmigungen von gesundheitsrechtlichen Aufsichtsbehörden.
 - Consulting im rechtlichen Bereich – Anwalt mit Spezialisierung Gesundheitsrechts wurde kontaktiert
  
-### H. Langzeitunterstützung und Wartung
+### H. Long-term support and maintenance
 - Updates und Wartung: Planung regelmäßiger Updates und Wartungsarbeiten, um die App funktionsfähig und sicher zu halten.
 - Feedback-Schleife: Einrichtung eines Systems zur Sammlung von Nutzerfeedback für kontinuierliche Verbesserungen.
 - Dokumentieren von Zugriffen auf System.
 - Patch Management, um Sicherheitslücken zu schließen.
  
-### I. Bewertung und Metriken
+### I. Assessment and metrics
 - Erfolgs Metriken: Definition, wie der Erfolg der App gemessen wird (z.B. Anzahl der Nutzer, Nutzerzufriedenheit).
 - Nachstart-Bewertung: Planung für regelmäßige Bewertungen der Leistung und Auswirkung der App.
 
