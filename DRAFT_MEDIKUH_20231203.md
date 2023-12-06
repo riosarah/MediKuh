@@ -281,7 +281,7 @@ Für folgende Bereiche fallen bei der App-Entwicklung Kosten an:
 - Das Programmieren ist der zeit- und kostenintensivste Teil bei der Entwicklung einer App.
 
 **--- Our Approach ---**
-Unter Einbeziehung obiger Kosten würden wir einen Prototyp bzw. MVP (*Minimum viable product, Quelle: [t2informatik.de](https://t2informatik.de/wissen-kompakt/minimum-viable-product))*<br>
+Unter Einbeziehung obiger Kosten würden wir einen Prototyp bzw. MVP (*Minimum viable product, Quelle: [t2 informatik](https://t2informatik.de/wissen-kompakt/minimum-viable-product))*<br>
 also ein brauchbares Produkt mit minimalen Eigenschaften entwickeln. Dieser Ansatz zielt auf frühzeitiges Nutzer- und Marktfeedback ab.
 
 Wir rechnen daher mit **EUR 14.000** für eine lauffähige Version.<br>
