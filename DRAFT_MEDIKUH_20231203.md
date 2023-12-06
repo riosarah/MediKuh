@@ -261,7 +261,7 @@ Hierfür unterscheiden wir 3 Gruppen:
 ### Development cost:
 Die Kosten für die Entwicklung einer Gesundheits-App können je nach Umfang und Komplexität der App variieren. <br>
 Laut einer Studie betragen die durchschnittlichen Kosten für die Entwicklung einer App zwischen 20 und 30.000 Euro. <br> 
-Quelle: [starting-up.de](www.starting-up.de)
+Quelle: [starting-up.de] (www.starting-up.de)
 
 Denn der zeitliche Aufwand, Komplexität und Funktionsumfang einer mobilen App ist ausschlaggebend für den Preis. <br>
 Für folgende Bereiche fallen bei der App-Entwicklung Kosten an:
