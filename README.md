@@ -20,4 +20,5 @@ Auch ist es uns wichtig zu betonen, dass die App den User im negativen Sinn nich
 sondern vielmehr als Unterstützung und Hilfe gesehen werden soll. 
 
 <hr>
-Weitere Informationen über unser Projekt finden sich hier: [Draft MediKuh] (https://github.com/riosarah/MediKuh/blob/main/DRAFT_MEDIKUH_20231203.md)
+Weitere Informationen über unser Projekt finden sich hier: 
+[Draft MediKuh] (https://github.com/riosarah/MediKuh/blob/main/DRAFT_MEDIKUH_20231203.md)
