@@ -4,10 +4,11 @@
 
 ## Projekt Outline
 
-Das Projekt **MediKuh** geht jenes Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen, <br>
+Das Projekt **MediKuh** geht jenes Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen,
 wenn es um die tägliche Einnahme von wichtigen Medikamenten geht.
-Mithilfe moderner Technik sollen diese Personengruppen <br>
-bei der Einnahme von Medikamenten unterstützt werden (Erinnerung). <br>
+Mithilfe moderner Technik sollen diese Personengruppen
+bei der Einnahme von Medikamenten unterstützt werden (Erinnerung).
+
 Die Unterstützung erfolgt mittels einer App, die sich in 2 wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
 
 >- Einfachheit in der Bedienung <br>
