@@ -1,25 +1,17 @@
 # **MediKuh**
 
-<img src="https://github.com/riosarah/MediKuh/assets/145586660/8523b1ea-f87f-4356-a884-f359d8b86d21" alt="drawing" width="300"/> <br>
+<img src="https://github.com/riosarah/MediKuh/assets/145586660/8523b1ea-f87f-4356-a884-f359d8b86d21" alt="drawing" width="300"/>
 
 ## Projekt Outline
 
-Das Projekt **MediKuh** geht jenes Problem an, vor dem bestimmte Gruppen in unserer Gesellschaft stehen,
-wenn es um die tägliche Einnahme von wichtigen Medikamenten geht.
-Mithilfe moderner Technik sollen diese Personengruppen
-bei der Einnahme von Medikamenten unterstützt werden (Erinnerung).
+MediKuh ist eine medizinische Unterstützungsapplikation mit deren Hilfe die tägliche Einnahme von Medikamente vereinfacht werden soll.
 
-Die Unterstützung erfolgt mittels einer App, die sich in 2 wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
 
->- Einfachheit in der Bedienung <br>
->- Individualiserbarkeit für bestimmte Personengruppen
+Die Unterstützung erfolgt mittels einer Bedienungsoberfläche, die sich in 2 wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
 
-<br>
+>- Einfachheit in der Bedienung 
+>- Individualiserbarkeit
+>- Barrierefreiheit
+>- Intuitivität
 
-Da es sich hierbei um sensible Daten handelt, werden Daten eines Users vertraulich behandelt. <br>
-Auch ist es uns wichtig zu betonen, dass die App den User im negativen Sinn nicht überwachen soll, <br>
-sondern vielmehr als Unterstützung und Hilfe gesehen werden soll. 
-
-<hr>
-
-Weitere Informationen über unser Projekt finden sich hier: [DraftMediKuh](DRAFT_MEDIKUH_20231203.md)
+MediKuh hat zwei Ziele. Eine freie Zugänglichkeit zur medizinischen Unterstützung bei der Medikamenteneinnahme für alle Personengruppen zu schaffen, und die Privatsphäte der Nutzer zu schützen. Wie diese Ziele umgesetzt werden sollen, können sie hier im Detail nachlesen: [DraftMediKuh](DRAFT_MEDIKUH_20231203.md)
