@@ -177,18 +177,6 @@ aber - unserer Meinung nach - keine derartige Individualiserung bieten.
 
 
 
-### Importand steps:
-- Kooperation mit Ärzten und Seniorenheimen.
-- Zusammenarbeit mit Herstellern bestimmter Handymarken (Pre-Instalation).
-- Festlegen der einzelnen Teams (Anzahl, Budget, ...) - IT, Marketing, Organisation.
-- Datenschutz: Rechtliche Situation klären, da es sich um personenbezogene Daten handelt.
-- Service: Wie soll den Usern bei Fragen geholfen werden.
-- Haftung: Wie gehen wir mit Problemen um (Falscheinnahme)?
-- Testphase: Detailplanung erforderlich (ev mit Seniorenheim etc).
-
-
-
-
 ## Opportunities and risks
 
 ### Market analysis and potential customers 
