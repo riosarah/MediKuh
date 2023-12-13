@@ -7,7 +7,7 @@
 MediKuh ist eine medizinische Unterstützungsapplikation mit deren Hilfe die tägliche Einnahme von Medikamente vereinfacht werden soll.
 
 
-Die Unterstützung erfolgt mittels einer Bedienungsoberfläche, die sich in 2 wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
+Die Unterstützung erfolgt mittels einer Bedienungsoberfläche, die sich in folgenden wesentlichen Punkten von bereits am Markt befindlichen Lösungen unterscheidet:
 
 >- Einfachheit in der Bedienung 
 >- Individualiserbarkeit
